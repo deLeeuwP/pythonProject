@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial Part 2, Added first Question to Database. No Choices set yet!">
+    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial Part 2, Added 3 Choices to Database. Added Super User.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705934982561</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Django Tutorial Part 2, Added 3 Choices to Database. Added Super User.">
+      <option name="closed" value="true" />
+      <created>1706688923710</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706688923710</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -112,6 +121,7 @@
     <MESSAGE value="Initial Creation of Project" />
     <MESSAGE value="Django Tutorial Part 1" />
     <MESSAGE value="Django Tutorial Part 2, Added first Question to Database. No Choices set yet!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial Part 2, Added first Question to Database. No Choices set yet!" />
+    <MESSAGE value="Django Tutorial Part 2, Added 3 Choices to Database. Added Super User." />
+    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial Part 2, Added 3 Choices to Database. Added Super User." />
   </component>
 </project>

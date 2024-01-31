@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial Part 2, Changed Time Zone, Added Polls/Question to Admin Page">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
+    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial Part 3, created Paths and Path-URLS for Polls. Created a Template file for Polls. Changed Index view to clickable.">
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706689429821</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Django Tutorial Part 3, created Paths and Path-URLS for Polls. Created a Template file for Polls. Changed Index view to clickable.">
+      <option name="closed" value="true" />
+      <created>1706692854089</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706692854089</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,6 +139,7 @@
     <MESSAGE value="Django Tutorial Part 2, Added first Question to Database. No Choices set yet!" />
     <MESSAGE value="Django Tutorial Part 2, Added 3 Choices to Database. Added Super User." />
     <MESSAGE value="Django Tutorial Part 2, Changed Time Zone, Added Polls/Question to Admin Page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial Part 2, Changed Time Zone, Added Polls/Question to Admin Page" />
+    <MESSAGE value="Django Tutorial Part 3, created Paths and Path-URLS for Polls. Created a Template file for Polls. Changed Index view to clickable." />
+    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial Part 3, created Paths and Path-URLS for Polls. Created a Template file for Polls. Changed Index view to clickable." />
   </component>
 </project>

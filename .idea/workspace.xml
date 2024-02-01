@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial Part 3, Created a Template file for Polls-&gt;detail. Changed views.detail to include Question and answers.">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial Part 4, Changed templates to contain form elements, added 404 error message, optimized code by using generic views." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706694231534</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Django Tutorial Part 4, Changed templates to contain form elements, added 404 error message, optimized code by using generic views.">
+      <option name="closed" value="true" />
+      <created>1706707429556</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706707429556</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +154,7 @@
     <MESSAGE value="Django Tutorial Part 2, Changed Time Zone, Added Polls/Question to Admin Page" />
     <MESSAGE value="Django Tutorial Part 3, created Paths and Path-URLS for Polls. Created a Template file for Polls. Changed Index view to clickable." />
     <MESSAGE value="Django Tutorial Part 3, Created a Template file for Polls-&gt;detail. Changed views.detail to include Question and answers." />
-    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial Part 3, Created a Template file for Polls-&gt;detail. Changed views.detail to include Question and answers." />
+    <MESSAGE value="Django Tutorial Part 4, Changed templates to contain form elements, added 404 error message, optimized code by using generic views." />
+    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial Part 4, Changed templates to contain form elements, added 404 error message, optimized code by using generic views." />
   </component>
 </project>

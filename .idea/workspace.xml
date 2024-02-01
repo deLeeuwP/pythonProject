@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial Part 4, Changed templates to contain form elements, added 404 error message, optimized code by using generic views." />
+    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Created local dev branch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/tests.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +23,43 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="dev" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -50,7 +85,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "dev",
     "last_opened_file_path": "C:/Users/deleeuw/PycharmProjects/pythonProject/mysite/polls"
   }
 }]]></component>
@@ -142,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706707429556</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Created local dev branch">
+      <option name="closed" value="true" />
+      <created>1706792567214</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706792567214</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +198,7 @@
     <MESSAGE value="Django Tutorial Part 3, created Paths and Path-URLS for Polls. Created a Template file for Polls. Changed Index view to clickable." />
     <MESSAGE value="Django Tutorial Part 3, Created a Template file for Polls-&gt;detail. Changed views.detail to include Question and answers." />
     <MESSAGE value="Django Tutorial Part 4, Changed templates to contain form elements, added 404 error message, optimized code by using generic views." />
-    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial Part 4, Changed templates to contain form elements, added 404 error message, optimized code by using generic views." />
+    <MESSAGE value="Created local dev branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created local dev branch" />
   </component>
 </project>

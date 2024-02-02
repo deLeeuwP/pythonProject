@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial part 7, learned how to change the admin page and fixed a naming error in the DB by migrating a change. IMPORTANT!! NEVER CHANGE THE SQL FILE">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/admin/base_site.html" afterDir="false" />
+    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial part 7, more changes to templates, copying html templates to adjust page layouts per app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706869390269</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Django Tutorial part 7, more changes to templates, copying html templates to adjust page layouts per app">
+      <option name="closed" value="true" />
+      <created>1706870208994</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706870208994</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,6 +236,7 @@
     <MESSAGE value="Django Tutorial part 5, wrote a bug test for putting a &quot;recently&quot; tag on Questions posted in the future." />
     <MESSAGE value="Django Tutorial part 5, wrote multiple bug tests for adding Questions posted in the future and the passed." />
     <MESSAGE value="Django Tutorial part 7, learned how to change the admin page and fixed a naming error in the DB by migrating a change. IMPORTANT!! NEVER CHANGE THE SQL FILE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial part 7, learned how to change the admin page and fixed a naming error in the DB by migrating a change. IMPORTANT!! NEVER CHANGE THE SQL FILE" />
+    <MESSAGE value="Django Tutorial part 7, more changes to templates, copying html templates to adjust page layouts per app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial part 7, more changes to templates, copying html templates to adjust page layouts per app" />
   </component>
 </project>

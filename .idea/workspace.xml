@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial part 5, wrote a bug test for putting a &quot;recently&quot; tag on Questions posted in the future.">
+    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial part 5, wrote multiple bug tests for adding Questions posted in the future and the passed.">
+      <change afterPath="$PROJECT_DIR$/mysite/polls/static/polls/images/LRBo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/polls/static/polls/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +88,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "dev",
-    "last_opened_file_path": "C:/Users/deleeuw/PycharmProjects/pythonProject/mysite/polls"
+    "last_opened_file_path": "C:/Users/deleeuw/PycharmProjects/pythonProject/mysite/polls/static/polls/images"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\deleeuw\PycharmProjects\pythonProject\mysite\polls\static\polls\images" />
       <recent name="C:\Users\deleeuw\PycharmProjects\pythonProject\mysite\polls" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -195,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706793879459</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Django Tutorial part 5, wrote multiple bug tests for adding Questions posted in the future and the passed.">
+      <option name="closed" value="true" />
+      <created>1706796059411</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706796059411</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,6 +219,7 @@
     <MESSAGE value="Django Tutorial Part 4, Changed templates to contain form elements, added 404 error message, optimized code by using generic views." />
     <MESSAGE value="Created local dev branch" />
     <MESSAGE value="Django Tutorial part 5, wrote a bug test for putting a &quot;recently&quot; tag on Questions posted in the future." />
-    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial part 5, wrote a bug test for putting a &quot;recently&quot; tag on Questions posted in the future." />
+    <MESSAGE value="Django Tutorial part 5, wrote multiple bug tests for adding Questions posted in the future and the passed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial part 5, wrote multiple bug tests for adding Questions posted in the future and the passed." />
   </component>
 </project>

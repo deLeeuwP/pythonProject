@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial part 5, wrote multiple bug tests for adding Questions posted in the future and the passed.">
+    <list default="true" id="8d6078bc-57e3-4af0-bbbe-0241479dc7b0" name="Changes" comment="Django Tutorial part 7, learned how to change the admin page and fixed a naming error in the DB by migrating a change. IMPORTANT!! NEVER CHANGE THE SQL FILE">
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/admin/base_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,18 +79,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/deleeuw/PycharmProjects/pythonProject/mysite/polls/static/polls/images&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "last_opened_file_path": "C:/Users/deleeuw/PycharmProjects/pythonProject/mysite/polls/templates/admin"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\deleeuw\PycharmProjects\pythonProject\mysite\polls\templates\admin" />
       <recent name="C:\Users\deleeuw\PycharmProjects\pythonProject\mysite\polls\static\polls\images" />
       <recent name="C:\Users\deleeuw\PycharmProjects\pythonProject\mysite\polls" />
     </key>
@@ -204,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706796059411</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Django Tutorial part 7, learned how to change the admin page and fixed a naming error in the DB by migrating a change. IMPORTANT!! NEVER CHANGE THE SQL FILE">
+      <option name="closed" value="true" />
+      <created>1706869390269</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706869390269</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +227,7 @@
     <MESSAGE value="Created local dev branch" />
     <MESSAGE value="Django Tutorial part 5, wrote a bug test for putting a &quot;recently&quot; tag on Questions posted in the future." />
     <MESSAGE value="Django Tutorial part 5, wrote multiple bug tests for adding Questions posted in the future and the passed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial part 5, wrote multiple bug tests for adding Questions posted in the future and the passed." />
+    <MESSAGE value="Django Tutorial part 7, learned how to change the admin page and fixed a naming error in the DB by migrating a change. IMPORTANT!! NEVER CHANGE THE SQL FILE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Django Tutorial part 7, learned how to change the admin page and fixed a naming error in the DB by migrating a change. IMPORTANT!! NEVER CHANGE THE SQL FILE" />
   </component>
 </project>
